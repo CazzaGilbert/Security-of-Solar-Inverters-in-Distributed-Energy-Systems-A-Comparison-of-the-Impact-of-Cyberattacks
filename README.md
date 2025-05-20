@@ -4,3 +4,7 @@ As the push for green energy continues solar panels and intelligent inverters ar
 Project Plan:
 ![image](https://github.com/user-attachments/assets/25e7395d-9fa8-4b5b-ab69-e23c082864a9)
 Source Document: [Project Plan.pdf](https://github.com/user-attachments/files/19524434/Project.Plan.pdf)
+
+Libraries needed:
+    pip install matplotlib
+    pip install pandas
